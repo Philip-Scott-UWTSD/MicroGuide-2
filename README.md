@@ -6,4 +6,4 @@ The World Health Organisation says that "antibiotic resistance is one of the big
 
 The key project documents are available above. Click on the file name, then click "View Raw". This should download the document.
 
-HRA approval is shown at https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/microguide-2/
+HRA approval is here: https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/microguide-2/
